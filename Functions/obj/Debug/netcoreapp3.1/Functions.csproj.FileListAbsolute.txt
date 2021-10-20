@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\logitpe21\Functions\Functions\bin\Debug\netcoreapp3.1\Functions.exe
+C:\Users\opilane\source\repos\logitpe21\Functions\Functions\bin\Debug\netcoreapp3.1\Functions.deps.json
+C:\Users\opilane\source\repos\logitpe21\Functions\Functions\bin\Debug\netcoreapp3.1\Functions.runtimeconfig.json
+C:\Users\opilane\source\repos\logitpe21\Functions\Functions\bin\Debug\netcoreapp3.1\Functions.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\logitpe21\Functions\Functions\bin\Debug\netcoreapp3.1\Functions.dll
+C:\Users\opilane\source\repos\logitpe21\Functions\Functions\bin\Debug\netcoreapp3.1\Functions.pdb
+C:\Users\opilane\source\repos\logitpe21\Functions\Functions\obj\Debug\netcoreapp3.1\Functions.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\logitpe21\Functions\Functions\obj\Debug\netcoreapp3.1\Functions.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\logitpe21\Functions\Functions\obj\Debug\netcoreapp3.1\Functions.AssemblyInfo.cs
+C:\Users\opilane\source\repos\logitpe21\Functions\Functions\obj\Debug\netcoreapp3.1\Functions.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\logitpe21\Functions\Functions\obj\Debug\netcoreapp3.1\Functions.dll
+C:\Users\opilane\source\repos\logitpe21\Functions\Functions\obj\Debug\netcoreapp3.1\Functions.pdb
+C:\Users\opilane\source\repos\logitpe21\Functions\Functions\obj\Debug\netcoreapp3.1\Functions.genruntimeconfig.cache
